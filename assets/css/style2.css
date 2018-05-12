@@ -1,0 +1,14 @@
+.wrapper {
+    border-bottom: 20px;
+}
+
+.wrapper img {
+    float: none;
+    margin-top: 20px;
+    margin-bottom: 15px;
+    margin-right: 25px; 
+}
+
+footer {
+    position: initial;
+}
